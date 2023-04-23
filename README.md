@@ -1,1 +1,1 @@
-# students-registration-api
+# students-registration-restful api
